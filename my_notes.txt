@@ -1,0 +1,15 @@
+#travail: Finaliser la présentation pour la réunion de vendredi.
+#personnel: Acheter un cadeau pour l’anniversaire de Sarah.
+#études: Revoir les définitions importantes en pharmacologie.
+#travail: Envoyer le rapport d’activité au chef de projet.
+#études: Pratiquer les exercices de régression linéaire.
+#personnel: Appeler le plombier pour la fuite.
+#travail: Vérifier les accès au nouveau serveur.
+#études: Lire les articles sur les essais cliniques.
+#personnel: Planifier les vacances d’été.
+#études: Résumer le chapitre sur les tests statistiques.
+#travail: Organiser une réunion avec l’équipe marketing.
+#personnel: Prendre rendez-vous chez le dentiste.
+#études: Réviser les formules de probabilité.
+#travail: Préparer un plan pour le projet Q3.
+#personnel: Nettoyer le garage ce week-end.
