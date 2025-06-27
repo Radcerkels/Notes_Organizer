@@ -1,10 +1,15 @@
 ###Organisateur de notes
 
-##Objectif
+## Consignes d'utilisation
+
+Les notes doivent être prise dans le format: #Thème: Note exemple: #Travail: Tondre la pelouse
+
+
+## Objectif
 
 Créer une application Python simple qui lit, organise et classe des notes personnelles (petits textes) dans des dossiers en fonction de leur thème.:
 
-##Structure après exécution
+## Structure après exécution
 
 organisateur_notes/
 │
@@ -22,3 +27,5 @@ organisateur_notes/
 
 - Ajouter une interface graphique (Tkinter)
 - Gestion des log et utilisation du fichier archive
+
+### Auteur : Pierre Z.
